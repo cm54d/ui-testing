@@ -1,4 +1,4 @@
-local repo = "https://raw.githubusercontent.com/cm54d/UE-ui-accuracy-thing/main/"
+local repo = "https://raw.githubusercontent.com/cm54d/ui-testing/main/"
 
 local Library = loadstring(game:HttpGet(repo .. "Library.lua"))()
 local ThemeManager = loadstring(game:HttpGet(repo .. "addons/ThemeManager.lua"))()
